@@ -11,5 +11,9 @@ def sum(a, b):
 c = sum(a, b)
 print("The value of c is ", c)
 
+print("The value of c is ", c)
+
 def mul(a, b):
     return (a*b)
+
+
